@@ -92,7 +92,7 @@ author:
 
 项目名称： XX AI 零代⁠码应用生成平台（比⁠如 “鱼皮 AI 应用生成平台”）
 
-建议根据自己对项目的学习理解⁠程度，自己想个有区⁠分度的名字，其他名称参考：qo3wYiJtEuojZDmpW2HRDEwGWUH1DzVFQ47Zs4YmYuk=
+建议根据自己对项目的学习理解⁠程度，自己想个有区⁠分度的名字，其他名称参考：
 
 -   XX AI 应用构建器
 -   XX 智能网站生成器
@@ -115,7 +115,7 @@ author:
 
 GitHub 代码地址： [https://github.com/liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother)
 
-建议大家也把项目放到代码仓库中，并且在主页文档⁠里补充项目架构图、项目功能模块⁠、技术选型等介绍信息。                                WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+建议大家也把项目放到代码仓库中，并且在主页文档⁠里补充项目架构图、项目功能模块⁠、技术选型等介绍信息。                                
 
 **但是注意不要抄袭鱼皮的写法！一定要加上自己的理解和扩展！** 否则一下就被面试官查出来了。
 
@@ -127,19 +127,19 @@ GitHub 代码地址： [https://github.com/liyupi/yu-ai-code-mother](https://git
 
 基于 Spring Boot 3 + LangChain4j + LangGraph4j 的 AI 零代码应用生成平台。用户输入自然语言描述，由 AI Agent 自动执行并发素材搜集、代码生成、质量检查、项目构建的完整工作流，最终一键部署为可访问的 Web 应用。
 
-项目核心为一套 AI 工作流，⁠并采用多级缓存、分布⁠式限流、异步处理、护轨重试等多种优化策略，保证系统的高性能与稳定性。F+kzRHG1248BgN91hBPqtNxbML3nLzvb0nw4jU7NTyI=
+项目核心为一套 AI 工作流，⁠并采用多级缓存、分布⁠式限流、异步处理、护轨重试等多种优化策略，保证系统的高性能与稳定性。
 
 #### 前端写法
 
 基于 Vue 3 + TypeScript + Ant Design Vue 的 AI 零代码应用生成平台。用户能够通过和 AI 多轮对话来生成网站、实时响应式浏览、以及可视化修改网站。
 
-前端基于 SSE 技术实现 AI Agent 执行过程的实时展示，⁠并通过 postMessage 与 ifra⁠me 通信，实现了对生成应用的可视化点选编辑功能。（这句话可选）                                WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+前端基于 SSE 技术实现 AI Agent 执行过程的实时展示，⁠并通过 postMessage 与 ifra⁠me 通信，实现了对生成应用的可视化点选编辑功能。（这句话可选）                                
 
 项目遵循前端工程化标准，通过 ESLint + Prettier 统一代码质量，通过 OpenAPI 自动生成请求代码提高开发效率。
 
 ### 主要工作
 
-根据自己对项目的掌握程度，**选 6 ~ 8 个左右** 去写并适当调整文案，灵活一点。**强烈建议参考鱼皮的项目扩展思路多完善下项目，增加一些区分度！**p+CfRPZxNEuU7hG8dzfPcN4R10eC9eypGHmTaRf/x7c=
+根据自己对项目的掌握程度，**选 6 ~ 8 个左右** 去写并适当调整文案，灵活一点。**强烈建议参考鱼皮的项目扩展思路多完善下项目，增加一些区分度！**
 
 #### 后端写法
 
@@ -214,4 +214,4 @@ GitHub 代码地址： [https://github.com/liyupi/yu-ai-code-mother](https://git
 6.  熟练掌握 Prompt 工程技巧，能通过思维链、少样本学习等优化手段显著提升大模型输出质量，实现更精准的 AI 响应。
 7.  注重工程实践与代码质量，能熟练运用门面、策略、模板方法等多种设计模式优化项目架构；并深度使用 AI 编程工具提升开发效率。
 
-EVevk6+j/BC/ssKO5aUZF8Rusnkp1o/HghJkPkRChGQ=
+

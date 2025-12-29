@@ -15,7 +15,7 @@ author:
 
 ### 第一阶段 - 基础平台开发
 
-第 1 期：项目总览nShO7+0zZStNyiJdnnoFDwT4JyyptzNsRjyXLsolAAU=
+第 1 期：项目总览
 
 -   项目介绍
 -   项目优势
@@ -42,7 +42,7 @@ author:
 -   用户权限控制
 -   用户管理
 
-第 4 期：AI 生成应用p+CfRPZxNEuU7hG8dzfPcN4R10eC9eypGHmTaRf/x7c=
+第 4 期：AI 生成应用
 
 -   LangChain4j 入门
 -   原生应用生成（2 种模式）
@@ -71,7 +71,7 @@ author:
 -   工程项目浏览
 -   工程项目部署
 
-第 8 期：功能扩展（前后端⁠）        ⁠                        dWCTYpHEFA/xV8BrvOpKRqkO1d88b9Ip8VkvBeLuZho=
+第 8 期：功能扩展（前后端⁠）        ⁠                        
 
 -   生成应用封面图
 -   下载项目代码包
@@ -99,7 +99,7 @@ author:
 -   稳定性优化
 -   成本优化
 
-第 12 期：项目部署上线WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+第 12 期：项目部署上线
 
 -   后端部署
 -   前端部署
@@ -117,4 +117,4 @@ author:
 -   微服务网关
 -   前端联调
 
-UzapLzatIvJJsWWs1pRz7879eXluI/+jA6d4qBCHuKE=
+

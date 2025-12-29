@@ -27,13 +27,13 @@ author:
 
 核心问题是因为 AI 忘记之前输出过的内容，具体解决办法可以参考第十一期教程：[https://www.codefather.cn/course/1948291549923344386/section/1955850416717950978](https://www.codefather.cn/course/1948291549923344386/section/1955850416717950978)
 
-![](https://pic.code-nav.cn/course_picture/1608440217629360130/K3Crh606ZaggIzFV.webp)UzapLzatIvJJsWWs1pRz7879eXluI/+jA6d4qBCHuKE=
+![](https://pic.code-nav.cn/course_picture/1608440217629360130/K3Crh606ZaggIzFV.webp)
 
 这里的解决方法使用的是调大对⁠话记忆：     ⁠                           
 
 修改 AiCodeGeneratorServiceFacto⁠ry#createAiCodeGener⁠atorService 对应最大 Message 数量                                
 
-修改这个变成 maxMessages(100) 即可解决，一般生成时间小于 15min 大于可以直接停止后端服务dWCTYpHEFA/xV8BrvOpKRqkO1d88b9Ip8VkvBeLuZho=
+修改这个变成 maxMessages(100) 即可解决，一般生成时间小于 15min 大于可以直接停止后端服务
 
 ```java
 private AiCodeGeneratorService createAiCodeGeneratorService(long appId, CodeGenTypeEnum codeGenType) {
@@ -88,14 +88,14 @@ private AiCodeGeneratorService createAiCodeGeneratorService(long appId, CodeGenT
 
 ### Redis 报错 redis.clients.jedis.exceptions.JedisDataException: ERR unknown command 'JSON.GET', with args beginning with: 00000
 
-出现这个报错的原因是 Redis 没有 JSON 模块导致的，参考官方文档的说明 [https://github.com/RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON)EVevk6+j/BC/ssKO5aUZF8Rusnkp1o/HghJkPkRChGQ=
+出现这个报错的原因是 Redis 没有 JSON 模块导致的，参考官方文档的说明 [https://github.com/RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON)
 
 ![](https://pic.code-nav.cn/course_picture/1608440217629360130/ypAsaEaseXqBHd3h.webp)
 
 解决办法
 
-1、安装 Redis8.0 ⁠以后版本     ⁠                           qo3wYiJtEuojZDmpW2HRDEwGWUH1DzVFQ47Zs4YmYuk=
+1、安装 Redis8.0 ⁠以后版本     ⁠                           
 
 2、仍然保持当前 Redis 版本手动安装 Redis JSON 模块，参考这个 issue [https://github.com/RedisJSON/RedisJSON/issues/214#issuecomment-1145465056](https://github.com/RedisJSON/RedisJSON/issues/214#issuecomment-1145465056)
 
-UzapLzatIvJJsWWs1pRz7879eXluI/+jA6d4qBCHuKE=
+

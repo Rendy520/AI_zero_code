@@ -15,55 +15,55 @@ author:
 
 > 视频介绍：[https://www.bilibili.com/video/BV1XsbSznEs4](https://www.bilibili.com/video/BV1XsbSznEs4)
 
-这是一套以 **AI 开发实战 + 后端架构设计** 为核心的项目教程，基于 Spring Boot 3 + LangChain4j + Vue 3 开发对标大厂的 **企业级 AI 代码生成平台**，带大家掌握新时代程序员必知必会的 AI 智能体开发、AI 工作流等前沿技术，大幅提升求职竞争力！EVevk6+j/BC/ssKO5aUZF8Rusnkp1o/HghJkPkRChGQ=
+这是一套以 **AI 开发实战 + 后端架构设计** 为核心的项目教程，基于 Spring Boot 3 + LangChain4j + Vue 3 开发对标大厂的 **企业级 AI 代码生成平台**，带大家掌握新时代程序员必知必会的 AI 智能体开发、AI 工作流等前沿技术，大幅提升求职竞争力！
 
 ![](https://pic.code-nav.cn/course_picture/1608440217629360130/kseadsqSeO6tUGO9.webp)
 
 ### 4 大核心能力
 
-1）智能代码生成：用户输入需求描述，AI⁠ 自动分析并选择合适的生成⁠策略，通过工具调用生成代码文件，采用流式输出让用户实时看到 AI 的执行过程。WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+1）智能代码生成：用户输入需求描述，AI⁠ 自动分析并选择合适的生成⁠策略，通过工具调用生成代码文件，采用流式输出让用户实时看到 AI 的执行过程。
 
 ![](https://pic.code-nav.cn/course_picture/1608440217629360130/NVgUXV1xu6v13b4c.webp)
 
 2）可视化编辑：生成的应用将实时展⁠示，可以进入编辑模式，⁠自由选择网页元素并且和 AI 对话来快速修改页面，直到满意为止。
 
-![](https://pic.code-nav.cn/course_picture/1608440217629360130/dZqoCWkrYtKyNsHE.webp)p+CfRPZxNEuU7hG8dzfPcN4R10eC9eypGHmTaRf/x7c=
+![](https://pic.code-nav.cn/course_picture/1608440217629360130/dZqoCWkrYtKyNsHE.webp)
 
 3）一键部署分享：可以将生成的应用一键部署到云端并自⁠动截取封面图，获得可访问的地址进行⁠分享，同时支持完整项目源码下载。                                
 
 ![](https://pic.code-nav.cn/course_picture/1608440217629360130/qhlqNoxtp0e09gmr.webp)
 
-4）企业级管理：提供用户管理、应用管⁠理、系统监控、业务指标监⁠控等后台功能，管理员可以设置精选应用、监控 AI 调用情况和系统性能。WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+4）企业级管理：提供用户管理、应用管⁠理、系统监控、业务指标监⁠控等后台功能，管理员可以设置精选应用、监控 AI 调用情况和系统性能。
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/YlDJqUNUKholfVSj.webp)
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/pWI7KyjyCnZHr0qI.webp)
 
-![img](https://pic.code-nav.cn/course_picture/1608440217629360130/JaEzUs4gSdUTRL3s.webp)dWCTYpHEFA/xV8BrvOpKRqkO1d88b9Ip8VkvBeLuZho=
+![img](https://pic.code-nav.cn/course_picture/1608440217629360130/JaEzUs4gSdUTRL3s.webp)
 
 当你学会这个项目后，你不仅能开发 AI 代码生成器，⁠更能灵活开发各种复杂的 AI 应用⁠：AI 写作助手、AI 设计工具、AI 数据分析平台、AI PPT 制作大师，尽情发挥自己的想象力吧！
 
 ### 为什么做这个项目？
 
-1）大厂都在做：如今各大厂都在疯狂布局 ⁠AI 编程赛道，无论是网页⁠端的 AI 应用生成器，还是客户端 IDE 和 AI 编程插件，已经成为风口。EVevk6+j/BC/ssKO5aUZF8Rusnkp1o/HghJkPkRChGQ=
+1）大厂都在做：如今各大厂都在疯狂布局 ⁠AI 编程赛道，无论是网页⁠端的 AI 应用生成器，还是客户端 IDE 和 AI 编程插件，已经成为风口。
 
 2）找工作好用：随着 AI 发⁠展，企业对 AI 开⁠发者需求激增，掌握 AI 应用开发的程序员在求职时极具优势。
 
 3）技术值得学：此类项目的实现不仅需要 AI 智⁠能体 / 工作流开发技术，还需要⁠各种后端技术和架构设计能力。                                
 
-鱼皮的上一个项目已经帮很多同学拿到 Offer 了~1vM0bC71h2RCfUkazMGszlP9tIpAZTvdkFrdc8O6/+w=
+鱼皮的上一个项目已经帮很多同学拿到 Offer 了~
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/xos5Ae0IJm4HKzjp.webp)
 
 ## 二、项目优势
 
-本项目紧跟 AI 时代、选题新颖、**对标大厂** 产品业务、技术丰富。区别于增删改查的烂大街项目，鱼皮会带你实战大量新技术和企业应用场景，掌握层层递进的系统设计、项目扩展和优化方案，帮你成为 AI 时代企业的香饽饽，给你的简历和求职大幅增加竞争力！p+CfRPZxNEuU7hG8dzfPcN4R10eC9eypGHmTaRf/x7c=
+本项目紧跟 AI 时代、选题新颖、**对标大厂** 产品业务、技术丰富。区别于增删改查的烂大街项目，鱼皮会带你实战大量新技术和企业应用场景，掌握层层递进的系统设计、项目扩展和优化方案，帮你成为 AI 时代企业的香饽饽，给你的简历和求职大幅增加竞争力！
 
 微服务 AI 全栈项目，技术丰富，玩透 AI 开发~
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/x9rMxLONwKoWzrms.webp)
 
-业务场景真实，实践大量企业解决方案：WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+业务场景真实，实践大量企业解决方案：
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/gDNM8zD9BLBuXSME.webp)
 
@@ -98,7 +98,7 @@ author:
 
 ### 鱼皮系列项目优势
 
-鱼皮原创项目系列以 **实战** 为主，用 **全程直播** 的方式，**从 0 到 11vM0bC71h2RCfUkazMGszlP9tIpAZTvdkFrdc8O6/+w=** 带大家学习技术知识，并立即实践运用到项目中，做到学以致用。F+kzRHG1248BgN91hBPqtNxbML3nLzvb0nw4jU7NTyI=
+鱼皮原创项目系列以 **实战** 为主，用 **全程直播** 的方式，**从 0 到 1** 带大家学习技术知识，并立即实践运用到项目中，做到学以致用。
 
 此外，还提供如下服务：
 
@@ -119,40 +119,40 @@ author:
 -   ⭐️ 前端 + Java 后端万用项目模板（快速创建项目）
     
 
-比起看网上的教程学习，鱼皮项目系列的优势⁠：从学知识 => 实践项目⁠ => 复习笔记 => 项目答疑 => 简历写法 => 面试题解的一条龙服务UzapLzatIvJJsWWs1pRz7879eXluI/+jA6d4qBCHuKE=
+比起看网上的教程学习，鱼皮项目系列的优势⁠：从学知识 => 实践项目⁠ => 复习笔记 => 项目答疑 => 简历写法 => 面试题解的一条龙服务
 
 从需求分析、技术选型、项目设计、项目初始化、Demo 编写、前后端开发实现、项目优化、部署上线等，每个环节我都 **从理论到实践** 给大家讲的明明白白、每个细节都不放过！
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/K4xYEHrEVOVEg9yU.webp)
 
-编程导航已有 **近 20 套项目教程！** 每个项目的学习重点不同，几乎全都是前端 + 后端的 **全栈项目** 。1vM0bC71h2RCfUkazMGszlP9tIpAZTvdkFrdc8O6/+w=
+编程导航已有 **近 20 套项目教程！** 每个项目的学习重点不同，几乎全都是前端 + 后端的 **全栈项目** 。
 
 详细请见：[https://codefather.cn/course](https://codefather.cn/course)（在该页面右侧有教程推荐和学习建议）
 
 往期项目介绍视频：[https://bilibili.com/video/BV1YvmbYbEgS](https://bilibili.com/video/BV1YvmbYbEgS)
 
-![img](https://pic.code-nav.cn/course_picture/1608440217629360130/1R4i5S6KDaF4FnIH.webp)WBpr9WI72APgOj+DCCZKObs+ofP0VhBHSvqSELGriv0=
+![img](https://pic.code-nav.cn/course_picture/1608440217629360130/1R4i5S6KDaF4FnIH.webp)
 
 ## 三、更多介绍
 
 功能模块：
 
-![img](https://pic.code-nav.cn/course_picture/1608440217629360130/xiM4Aqw7B6nRViuX.webp)cZq9/nGwbRXl38gxWuOGAJfnulyo9Sx2vt9GhAJuMwQ=
+![img](https://pic.code-nav.cn/course_picture/1608440217629360130/xiM4Aqw7B6nRViuX.webp)
 
 核心业务流程：
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/lHHnzy23vfOrZT1M.webp)
 
-架构设计：nShO7+0zZStNyiJdnnoFDwT4JyyptzNsRjyXLsolAAU=
+架构设计：
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/6B3SPYdueCT2h8jA.webp)
 
 ## 加入项目学习
 
-编程导航已有 **近 20 套项目教程**！每个项目的学习重点不同，几乎全都是前端 + 后端的 **全栈** 项目 。F+kzRHG1248BgN91hBPqtNxbML3nLzvb0nw4jU7NTyI=
+编程导航已有 **近 20 套项目教程**！每个项目的学习重点不同，几乎全都是前端 + 后端的 **全栈** 项目 。
 
 ![img](https://pic.code-nav.cn/course_picture/1608440217629360130/JUXAbLKMQ4k7QnvU.webp)
 
 欢迎开通 [编程导航会员](https://www.codefather.cn/vip)，开通后不仅可以全程跟学本项目，往期 10+ 套原创项目教程也都可以无限回看。还能享受更多原创技术资料、学习和求职指导、上百场面试回放视频，开启你的编程起飞之旅~
 
-EVevk6+j/BC/ssKO5aUZF8Rusnkp1o/HghJkPkRChGQ=
+

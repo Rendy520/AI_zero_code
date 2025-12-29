@@ -15,12 +15,12 @@ author:
 
 搭建仓库，点 star 的都⁠是精神股东    ⁠                            
 
-代码仓库：[https://github.com/liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother)UzapLzatIvJJsWWs1pRz7879eXluI/+jA6d4qBCHuKE=
+代码仓库：[https://github.com/liyupi/yu-ai-code-mother](https://github.com/liyupi/yu-ai-code-mother)
 
 **项目源码和每一期单独的源码**
 
 > 点击 Commit 查看下载每一期源码
 
-![image.png](https://pic.code-nav.cn/course_picture/1608440217629360130/6TcVEtawU5o6oBhk.webp)p+CfRPZxNEuU7hG8dzfPcN4R10eC9eypGHmTaRf/x7c=
+![image.png](https://pic.code-nav.cn/course_picture/1608440217629360130/6TcVEtawU5o6oBhk.webp)
 
-F+kzRHG1248BgN91hBPqtNxbML3nLzvb0nw4jU7NTyI=
+
