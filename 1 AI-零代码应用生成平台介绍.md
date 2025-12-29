@@ -4,10 +4,6 @@ source: https://www.codefather.cn/course/1948291549923344386/section/19482916542
 
 # AI 零代码应用生成平台介绍 - 【大厂必备】LangChain4j
 
-> ## Excerpt
-> 一、项目介绍 视频介绍：https://www.bilibili.com/video/BV1XsbSznEs4 这是一套以 AI 开发实战 + 后端架构设计 为核心的项目教程，基。编程导航教程分享，做您编程学习路上的导航员。
-
----
 ## 一、项目介绍
 
 > 视频介绍：[https://www.bilibili.com/video/BV1XsbSznEs4](https://www.bilibili.com/video/BV1XsbSznEs4)

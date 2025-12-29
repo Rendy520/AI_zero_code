@@ -4,10 +4,6 @@ source: https://www.codefather.cn/course/1948291549923344386/section/19711405386
 
 # AI 零代码应用生成平台问题答疑 -
 
-> ## Excerpt
-> Bean named 'XXXXX' is expected to be of type 'dev.langchain4j.model.chat.XXXX' but was actually。编程导航教程分享，做您编程学习路上的导航员。
-
----
 ### Bean named 'XXXXX' is expected to be of type 'dev.langchain4j.model.chat.XXXX' but was actually of type 'dev.langchain4j.model.openai.XXXX'.
 
 出现这个报错是因为 spring-boot-devtools ，解决办法就把下面这个依赖在 pom.xml 删除

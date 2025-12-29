@@ -4,10 +4,6 @@ source: https://www.codefather.cn/course/1948291549923344386/section/19482917654
 
 # AI 零代码应用生成平台简历写法 -
 
-> ## Excerpt
-> 编程导航原创项目教程：https://www.codefather.cn 作者：[程序员鱼皮](https://yuyuanweb.fei。编程导航教程分享，做您编程学习路上的导航员。
-
----
 编程导航原创项目教程：[https://www.codefather.cn](https://www.codefather.cn/)
 
 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
