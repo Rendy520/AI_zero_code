@@ -1,8 +1,5 @@
----
-created: 2025-12-29T16:03:23 (UTC +08:00)
-tags: [求职文章,面经文章,Java,Python,JavaScript,前端,C语言,C++,Go语言,程序员,编程学习,IT教程,自学编程,软件开发,项目实战,编程导航,开发者交流社区,编程资源,计算机]
+﻿---
 source: https://www.codefather.cn/post/1977742552241020929#heading-0
-author: 
 ---
 
 # 去哪儿旅行-Ai应用开发工程师-面经-社招（已过-等后天hr面试） -
